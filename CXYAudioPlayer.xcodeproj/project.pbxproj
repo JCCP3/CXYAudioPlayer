@@ -12,6 +12,7 @@
 		FEB556AE1C3DFAE800FCFA43 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FEB556AD1C3DFAE800FCFA43 /* Assets.xcassets */; };
 		FEB556BC1C3DFAE800FCFA43 /* CXYAudioPlayerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FEB556BB1C3DFAE800FCFA43 /* CXYAudioPlayerTests.m */; };
 		FEB556C71C3DFAE800FCFA43 /* CXYAudioPlayerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FEB556C61C3DFAE800FCFA43 /* CXYAudioPlayerUITests.m */; };
+		FEB556D51C3E0D8300FCFA43 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = FEB556D41C3E0D8300FCFA43 /* Podfile */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		FEB556C21C3DFAE800FCFA43 /* CXYAudioPlayerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CXYAudioPlayerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEB556C61C3DFAE800FCFA43 /* CXYAudioPlayerUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CXYAudioPlayerUITests.m; sourceTree = "<group>"; };
 		FEB556C81C3DFAE800FCFA43 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FEB556D41C3E0D8300FCFA43 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				FEB556A51C3DFAE800FCFA43 /* AppDelegate.m */,
 				FEB556AD1C3DFAE800FCFA43 /* Assets.xcassets */,
 				FEB556B21C3DFAE800FCFA43 /* Info.plist */,
+				FEB556D41C3E0D8300FCFA43 /* Podfile */,
 				FEB556A11C3DFAE800FCFA43 /* Supporting Files */,
 			);
 			path = CXYAudioPlayer;
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FEB556D51C3E0D8300FCFA43 /* Podfile in Resources */,
 				FEB556AE1C3DFAE800FCFA43 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
